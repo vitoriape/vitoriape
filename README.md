@@ -19,5 +19,9 @@
 
 [![iot-cisco-badge](https://snipboard.io/biwFsp.jpg)](https://www.credly.com/badges/4e4f1094-886b-4794-8f49-ff99ab678d0f/public_url)
 
-### Stats
-[![vitoriape's github stats](https://github-readme-stats.vercel.app/api?username=vitoriape&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+### Stats 
+<div>
+<a href="https://github.com/vitoriape/vitoriape">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriape&count_private=true&show_icons=true&theme=github_dark&icon_color=c1cb12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriape&theme=github_dark&font_color=c1cb12)("https://github.com/anuraghazra/github-readme-stats%22" />
+</div>
