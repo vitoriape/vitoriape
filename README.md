@@ -10,7 +10,7 @@
 - 🏫 **Database Technologist**  (SENAC) (2021-2023)   ![progress](https://progress-bar.dev/20/ "progress")
 
 #### Skills
-- 💻 **VBA** | **Latex** | **Business Intelligence**
+- 💻 **VBA** | **Latex**
 - 📚 **Teaching**
 - 📋 **Project Planning**
 - 🏙 **Property Market**
