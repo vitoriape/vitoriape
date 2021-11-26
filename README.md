@@ -3,25 +3,36 @@
 </h3>
 
 <p align="center">
-  <img alt="Linkedin Badge" href="https://www.linkedin.com/in/vitoria-pecanha/" src="https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-pecanha/" />
-
-  <img alt="Gmail Badge" href="mailto:vitoriapecanha.log@gmail.com" src="https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-flat&logo=Gmail&logoColor=white&link=mailto:vitoriapecanha.log@gmail.com" />
-
-  <img alt="Weblate Badge" href="mailto:vitoriapecanha.log@gmail.com" src="https://img.shields.io/badge/-PenariaToji-%23219f84?style=flat-flat&logo=Weblate&link=https://translate.habitica.com/user/PenariaToji/" />
-
-  <img alt="Weblate translation count" src="https://img.shields.io/weblate/translations/PenariaToji?color=%23219f84&label=weblate%20translations&server=https%3A%2F%2Ftranslate.habitica.com%2F">
-
-  <img alt="Github Badge" href="mailto:vitoriapecanha.log@gmail.com" src="https://img.shields.io/badge/-vitoriape-black?style-flat-square&logo=Github&logoColor=white&link=https://github.com/vitoriape" />
-
-  <img alt="Github repositories count" src="https://img.shields.io/github/followers/vitoriape?color=black">
+  <a href="https://www.linkedin.com/in/vitoria-pecanha/">
+    <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  
+   <a href="mailto:vitoriapecanha.log@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-flat&logo=Gmail&logoColor=white">
+  </a>
+  
+  <a href="https://translate.habitica.com/user/PenariaToji/">
+    <img alt="Weblate Badge" src="https://img.shields.io/badge/-PenariaToji-%23219f84?style=flat-flat&logo=Weblate">
+  </a>
+  
+  <a href="https://translate.habitica.com/user/PenariaToji/#contributed">
+    <img alt="Weblate translation count" src="https://img.shields.io/weblate/translations/PenariaToji?color=%23219f84&label=weblate%20translations&server=https%3A%2F%2Ftranslate.habitica.com%2F">
+  </a>
+  
+  <a href="https://github.com/vitoriape">
+    <img alt="Github Badge" src="https://img.shields.io/badge/-vitoriape-black?style-flat-square&logo=Github&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/vitoriape?tab=followers">
+    <img alt="Github followers" src="https://img.shields.io/github/followers/vitoriape?color=black">
   </a>
 </p>
 
 
 
 ### Stats 
+
 <div>
-  
 <a href="https://github.com/vitoriape/vitoriape">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriape&count_private=true&show_icons=true&theme=github_dark&icon_color=c1cb12"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriape&theme=github_dark&font_color=c1cb12)("https://github.com/vitoriape/github-readme-stats%22" />
