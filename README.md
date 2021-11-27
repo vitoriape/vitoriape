@@ -45,7 +45,6 @@
 ### Skills
                                                                                                                                             
 - [x] VBA 📊
-- [x] Latex 📑
 - [x] Project Planning 📋
 - [x] Property Market 🏙
 - [x] Teaching 📚                                                                                                                                                                                                                                                                                               
