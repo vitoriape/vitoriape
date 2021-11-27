@@ -54,17 +54,6 @@
 <img alt="Jupyter Badge" src="https://img.shields.io/badge/Jupyter-616262?style=for-the-badge&logo=jupyter&logoColor=orange" />
 <img alt="Html Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="Latex Badge" src="https://img.shields.io/badge/LATEX-008181?style=for-the-badge&logo=latex&logoColor=cyan" />
-
-                                                                                                                   
-### Background
-                                                                                                  
-📒 `Volunteer monitor` 📅 (2012 - 2014) 🏫 PMRO  ![progress](https://progress-bar.dev/100/ "progress")
                                                                                                      
-📘 `Trainee student` 📅 (2015 - 2017) 🏫 IMERO  ![progress](https://progress-bar.dev/100/ "progress")
-                                                                                                    
-📗 `Technical degree in Logistics` 📅 (2018 - 2019) 🏫 ETP  ![progress](https://progress-bar.dev/100/ "progress")
-                                                                                                                
-📙 `Database Technologist` 📅 (2021 - 2023) 🏫 SENAC  ![progress](https://progress-bar.dev/20/ "progress")     
-                                                                                                         
 ---
                                                                                                          
