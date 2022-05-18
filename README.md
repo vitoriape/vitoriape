@@ -44,13 +44,15 @@
 
 ### Skills
                                                                                                                                             
-- [x] VBA 📊
+- [x] Robotic Process Automation 💡
 - [x] Project Planning 📋
-- [x] Property Market 🏙
+- [x] Real State Market 🏙
 - [x] Teaching 📚                                                                                                                                                                                                                                                                                               
 ### Learning
-                                                                                                                                                     
+         
+<img alt="Python Badge" src="https://img.shields.io/badge/PYTHON-002750?style=for-the-badge&logo=python&logoColor=yellow" />
 <img alt="Jupyter Badge" src="https://img.shields.io/badge/Jupyter-616262?style=for-the-badge&logo=jupyter&logoColor=orange" />
+<img alt="MySQL Badge" src="https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="Html Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="Latex Badge" src="https://img.shields.io/badge/LATEX-008181?style=for-the-badge&logo=latex&logoColor=cyan" />
                                                                                                      
