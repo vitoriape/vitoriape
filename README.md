@@ -12,8 +12,8 @@
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-flat&logo=Gmail&logoColor=white">
   </a>
   
-  <a href="mailto:vitoriapecanha.log@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-flat&logo=Gmail&logoColor=white">
+  <a href="https://www.workana.com/freelancer/adc45c752416bdaecd6e912140fe5fd3">
+    <img alt="Workana Badge" src="https://img.shields.io/badge/-Workana Profile-ff0066?style=flat-flat&logo=Trello&logoColor=white">
   </a>
   
   <a href="https://translate.habitica.com/user/PenariaToji/">
@@ -55,7 +55,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30" height="30"/>
 </a>
 </p>
