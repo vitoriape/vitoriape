@@ -1,5 +1,12 @@
 <h3 align="center"> 
-  <img alt="banner" src="https://snipboard.io/yEeb0F.jpg" width="1000" height="150">
+ <div>
+  <p align="center">
+  <a href="https://github.com/vitoriape/vitoriape">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriape&count_private=true&show_icons=true&theme=github_dark&icon_color=c1cb12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriape&theme=github_dark&font_color=c1cb12)("https://github.com/vitoriape/github-readme-stats%22" />
+  </a>
+  </p>
+  </div>
 </h3>
 
 
@@ -35,13 +42,9 @@
 
 ---
 
-<p align="center">
-<div>
-<a href="https://github.com/vitoriape/vitoriape">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriape&count_private=true&show_icons=true&theme=github_dark&icon_color=c1cb12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriape&theme=github_dark&font_color=c1cb12)("https://github.com/vitoriape/github-readme-stats%22" />
-</div>
-</p>
+
+
+
 
 
 ### Badges
