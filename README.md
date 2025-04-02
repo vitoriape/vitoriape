@@ -16,7 +16,7 @@
   </a>
   
    <a href="mailto:vitoriapecanha.log@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-vitoriapecanha.log@gmail.com-c14438?style=flat-flat&logo=Gmail&logoColor=white">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-administracao@vpaconsultoria.com-c14438?style=flat-flat&logo=Gmail&logoColor=white">
   </a>
   
   <a href="https://www.workana.com/freelancer/adc45c752416bdaecd6e912140fe5fd3">
