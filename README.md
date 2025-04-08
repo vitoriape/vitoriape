@@ -50,26 +50,4 @@
 ### Badges
 <img alt="IoT Cisco Badge" href="https://www.credly.com/badges/4e4f1094-886b-4794-8f49-ff99ab678d0f/public_url" src="https://snipboard.io/biwFsp.jpg" width="80" height="80"/>
 
-
-### Skills
-<p align="left">
-<a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30" height="30"/>
-</a>
-</p>
-
-
-### Learning
-<p align="left">
-<a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
-          
-</a>
-</p>
-
 ---
