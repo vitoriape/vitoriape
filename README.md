@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitoria-pecanha/">
-    <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white">
+   <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=linktree&logoColor=white">
   </a>
-  
+
    <a href="mailto:vitoriapecanha.log@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-administracao@vpaconsultoria.com-c14438?style=flat-flat&logo=Gmail&logoColor=white">
   </a>
   
-  <a href="https://www.workana.com/freelancer/adc45c752416bdaecd6e912140fe5fd3">
-    <img alt="Workana Badge" src="https://img.shields.io/badge/-Workana Profile-ff0066?style=flat-flat&logo=Trello&logoColor=white">
+  <a href="lufabranding.com.br">
+    <img alt="LUFA badge" src="https://img.shields.io/badge/-Site-ff0066?style=flat-flat&logo=Wordpress&logoColor=white">
   </a>
   
   <a href="https://translate.habitica.com/user/PenariaToji/">
@@ -40,14 +40,33 @@
   </a>
 </p>
 
----
+<p align="center">
+  <!-- Looker Studio -->
+  <img src="https://cdn.simpleicons.org/looker/FFFFFF" alt="Looker" height="40" />
 
+  <!-- Python -->
+  <img src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" height="40" />
 
+  <!-- MySQL -->
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="MySQL" height="40" />
 
+  <!-- Google Analytics -->
+  <img src="https://cdn.simpleicons.org/googleanalytics/FFFFFF" alt="Google Analytics" height="40" />
 
+  <!-- Google Apps Script -->
+  <img src="https://cdn.simpleicons.org/googleappsscript/FFFFFF" alt="Google Apps Script" height="40" />
+</p>
 
+## Projects
+<details>
+  <summary>[Show/Hide] Projects</summary>
 
-### Badges
-<img alt="IoT Cisco Badge" href="https://www.credly.com/badges/4e4f1094-886b-4794-8f49-ff99ab678d0f/public_url" src="https://snipboard.io/biwFsp.jpg" width="80" height="80"/>
+| Name | Release | Activity | State |
+| --- | --- | ----  | --- |
+| 
 
----
+</details>
+
+## Badges
+
+<img alt="IoT Cisco Badge" href="https://www.credly.com/badges/4e4f1094-886b-4794-8f49-ff99ab678d0f/public_url" src="Intro2IoT.png" width="80" height="80"/>
