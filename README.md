@@ -61,9 +61,9 @@
 <details>
   <summary>[Show/Hide] Projects</summary>
 
-| Name | Release | Activity | State |
-| --- | --- | ----  | --- |
-| 
+| Name | Release |
+| ---- | ------- |
+| datamart-api | 1.4 | 
 
 </details>
 
