@@ -63,7 +63,7 @@
 
 | Name | Release |
 | ---- | ------- |
-| datamart-api | 1.4 | 
+| powerbi-api | 1.4 | 
 
 </details>
 
