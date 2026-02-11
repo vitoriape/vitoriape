@@ -54,6 +54,7 @@
 
 | Name        | Release |
 |-------------|---------|
+| [tech-cheatsheet](https://github.com/vitoriape/tech-cheatsheet) | none     |
 | [powerbi-api](https://github.com/vitoriape/powerbi-api) | 1.4     |
 | [kml-generator](https://github.com/vitoriape/kml-generator) | 1.1     |
 | [gasolve](https://github.com/vitoriape/gasolve) | none     |
