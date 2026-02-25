@@ -52,13 +52,16 @@
 <details>
   <summary>[Show/Hide] Projects</summary>
 
-| Name        | Release |
-|-------------|---------|
-| [tech-cheatsheet](https://github.com/vitoriape/tech-cheatsheet) | none     |
-| [powerbi-api](https://github.com/vitoriape/powerbi-api) | 1.4     |
-| [kml-generator](https://github.com/vitoriape/kml-generator) | 1.1     |
-| [gasolve](https://github.com/vitoriape/gasolve) | none     |
-| [habitica-colaborative-glossary](https://github.com/vitoriape/habitica-colaborative-glossary) | none     |
+| Name                                                                                          | Release |
+|-----------------------------------------------------------------------------------------------|---------|
+| [etl-superlogica-mxm](https://github.com/vitoriape/etl-superlogica-mxm)                       | v.1     |
+| [pbi-docmentor](https://github.com/vitoriape/pbi-docmentor)                                   | 1.0     |
+| [tech-cheatsheet](https://github.com/vitoriape/tech-cheatsheet)                               | none    |
+| [powerbi-api](https://github.com/vitoriape/powerbi-api)                                       | 1.4     |
+| [kml-generator](https://github.com/vitoriape/kml-generator)                                   | 1.1     |
+| [agro-sis](https://github.com/vitoriape/agro-sis)                                             | 1.0     |
+| [gasolve](https://github.com/vitoriape/gasolve)                                               | none    |
+| [habitica-colaborative-glossary](https://github.com/vitoriape/habitica-colaborative-glossary) | none    |
 
 </details>
 
