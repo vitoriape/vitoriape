@@ -2,8 +2,6 @@
 
 # VITÓRIA PEÇANHA
 
-`DATA ENGINEER` · `ANALYTICS ENGINEER` · `HEAD OF TECHNOLOGY & INNOVATION`
-
 <img src="https://img.shields.io/badge/Data%20Platforms-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="Data Platforms" />
 <img src="https://img.shields.io/badge/APIs%20%26%20Automation-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="APIs and Automation" />
 <img src="https://img.shields.io/badge/BI%20%26%20Analytics-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="BI and Analytics" />
@@ -24,29 +22,12 @@
 
 <div align="center">
 
-[![Profile](https://img.shields.io/badge/Profile-0D1117?style=for-the-badge&logo=about-dot-me&logoColor=58A6FF)](#profile)
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=stackshare&logoColor=58A6FF)](#stack)
 [![Projects](https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](#projects)
 [![Metrics](https://img.shields.io/badge/Metrics-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF)](#metrics)
-[![Documents](https://img.shields.io/badge/Documents-0D1117?style=for-the-badge&logo=googledocs&logoColor=58A6FF)](#documents)
 [![Certification](https://img.shields.io/badge/Certification-0D1117?style=for-the-badge&logo=credly&logoColor=F59E0B)](#certification)
 
 </div>
-
----
-
-<a id="profile"></a>
-
-## Profile
-
-<table>
-<tr>
-<td align="center"><strong>5+ years</strong><br/><sub>data & tech</sub></td>
-<td align="center"><strong>Python · SQL</strong><br/><sub>engineering core</sub></td>
-<td align="center"><strong>Airflow · APIs</strong><br/><sub>automation layer</sub></td>
-<td align="center"><strong>Power BI · DAX</strong><br/><sub>analytics delivery</sub></td>
-</tr>
-</table>
 
 ```mermaid
 flowchart LR
@@ -144,25 +125,6 @@ flowchart LR
 </tr>
 </table>
 
-<details>
-<summary><strong>Private / Enterprise Case Studies</strong></summary>
-<br/>
-<table>
-<tr>
-<td align="center"><strong>Corporate Data Architecture</strong><br/><sub>Airflow · Azure SQL · Governance</sub></td>
-<td align="center"><strong>Internal Data API</strong><br/><sub>FastAPI · OpenAPI · Access Control</sub></td>
-</tr>
-<tr>
-<td align="center"><strong>WhatsApp + Collections Kanban</strong><br/><sub>n8n · Zapier · CRM</sub></td>
-<td align="center"><strong>Executive KPI Dashboards</strong><br/><sub>Power BI · DAX · SQL</sub></td>
-</tr>
-<tr>
-<td align="center"><strong>Facial Recognition Integration</strong><br/><sub>Intranet · Hikvision · Sync</sub></td>
-<td align="center"><strong>More Repositories</strong><br/><sub><a href="https://github.com/vitoriape?tab=repositories">github.com/vitoriape</a></sub></td>
-</tr>
-</table>
-</details>
-
 <a id="metrics"></a>
 
 ## Metrics
@@ -176,26 +138,6 @@ flowchart LR
   <img height="170" src="https://streak-stats.demolab.com?user=vitoriape&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
-<details>
-<summary><strong>More GitHub visuals</strong></summary>
-<br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitoriape&theme=github_dark" alt="Productive time" />
-</div>
-</details>
-
-<a id="documents"></a>
-
-## Documents
-
-<div align="center">
-
-[![CV EN](https://img.shields.io/badge/CV-English-0D1117?style=for-the-badge&logo=googledocs&logoColor=58A6FF)](docs/CV_Vitoria_Pecanha_2026_EN.pdf)
-[![CV PT-BR](https://img.shields.io/badge/CV-Portugu%C3%AAs-0D1117?style=for-the-badge&logo=googledocs&logoColor=58A6FF)](docs/CV_Vitoria_Pecanha_2026_PT-BR.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Technical%20Projects-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF)](docs/Portfolio_Vitoria_Pecanha_2026.pdf)
-
-</div>
-
 <a id="certification"></a>
 
 ## Certification
@@ -205,11 +147,3 @@ flowchart LR
 </a>
 
 ---
-
-<div align="center">
-
-`BUILD` · `CONNECT` · `AUTOMATE` · `ANALYZE`
-
-[LinkedIn](https://www.linkedin.com/in/vitoria-pecanha/) · [GitHub](https://github.com/vitoriape) · [Email](mailto:vitoriapecanha.log@gmail.com)
-
-</div>
